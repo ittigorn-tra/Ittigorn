@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Ittigorn
+Version: 0.0.1
+Summary: My helper classes library
+Home-page: https://github.com/ittigorn-tra/Ittigorn
+License: UNKNOWN
+Description: README.md message placeholder
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT license
+Classifier: Operating Systems :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
