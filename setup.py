@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
   name                          = 'Ittigorn',
-  version                       = '0.0.1',
+  version                       = '0.0.2',
   auther                        = 'Ittigorn Tradussadee',
   auther_email                  = 'ittigorn.tra@gmail.com',
   description                   = 'My helper classes library',

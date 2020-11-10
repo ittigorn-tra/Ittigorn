@@ -86,7 +86,7 @@ class Helper:
       print( ''.join(msg) )
 
   def print_log(self, log_level=None, end=None, *args):
-    this_log_level = log_level or self.AppConfig.default_log_level)
+    this_log_level = log_level or self.AppConfig.default_log_level
     if self.AppConfig.log_level > 0:
       if self.AppConfig.log_level >= this_log_level:
         if self.AppConfig.log_to_stdout:
