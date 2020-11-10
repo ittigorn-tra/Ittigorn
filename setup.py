@@ -16,7 +16,7 @@ setuptools.setup(
   install_requires              = ['pandas'],
   classifiers                   = [
     'Programming Language :: Python :: 3',
-    'License :: OSI Approved :: MIT license',
+    'License :: OSI Approved :: MIT License',
     'Operating Systems :: OS Independent',
   ],
   python_requires               = '>=3.7',
