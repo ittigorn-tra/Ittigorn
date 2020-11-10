@@ -1,0 +1,8 @@
+.vscode/
+build/
+dist/
+Ittigorn.egg-info/
+__pycache__/
+/*/__pycache__/
+
+!.gitkeep
