@@ -5,9 +5,11 @@ Summary: My helper classes library
 Home-page: https://github.com/ittigorn-tra/Ittigorn
 License: UNKNOWN
 Description: README.md message placeholder
+        
+        ref : https://www.codementor.io/@ajayagrawal295/how-to-publish-your-own-python-package-12tbhi20tf
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT license
+Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating Systems :: OS Independent
 Requires-Python: >=3.7
 Description-Content-Type: text/markdown
